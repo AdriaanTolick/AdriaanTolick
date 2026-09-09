@@ -1,4 +1,4 @@
-## Profile snapshot
+
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=adriaantolick&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189246950%3Fu%3Dc0ff2c6e8d00e7a505a04e9daeb75321383f7ee8%26v%3D4" alt="adriaantolick hero visual" />
